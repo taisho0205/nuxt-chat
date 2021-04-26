@@ -1,0 +1,10 @@
+{
+  "apiKey": "ABCDEFG",
+  "authDomain": "https://example.com",
+  "databaseURL": "https://example.com",
+  "projectId": "test",
+  "storageBucket": "https://example.com",
+  "messagingSenderId": "123456789",
+  "appId": "12345678",
+  "measurementId": "G-G12345678"
+}
